@@ -1,0 +1,38 @@
+* {
+    font-family: monospace;
+}
+
+body {
+    background-color: bisque;
+    display: block;
+}
+
+header {
+    text-align: center;
+    color: purple;
+}
+
+h1 {
+    color: black;
+    
+}
+
+table {
+    table-layout: auto;
+    width: 50%;
+    border-collapse: collapse;
+    margin: 0 auto;
+    background-color: thistle;
+}
+
+th {
+    text-align: left;
+    background-color: rgb(172, 128, 184);
+    padding: auto; 
+}
+
+table, td, th {
+    border: 1px solid whitesmoke;
+    padding: 5px;
+}
+
